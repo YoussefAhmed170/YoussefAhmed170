@@ -34,7 +34,7 @@
 <h2 align="left">📌 Projects:</h2>
 
 - 📝 To-Do List Console App (c#)
-- 🧱 OOP Project (java)
+- 🧱 OOP simple Project (java)
 - 🖥️ Simple GUI Project (java)
 
 
