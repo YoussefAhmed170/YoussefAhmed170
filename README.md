@@ -3,7 +3,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Youssef Ahmed, Computer Science Student :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
  </abc>
 </h2> 
 
@@ -11,25 +11,9 @@
 
 <p align="left">
 
-<a href="https://www.cplusplus.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-</a>
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> 
-</a>
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,mysql,visualstudio,vscode,gmail,discord,github)](https://skillicons.dev)
 
-<a href="https://www.java.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
-</a>
 
 </p>
 
@@ -42,17 +26,17 @@
 - 🧠 Strong understanding of **OOP, Data Structures & Algorithms**
 - 🗄️ Interested in **Databases & SQL**
 - 🧩 I enjoy **Problem Solving**
-- 🚀 Currently improving myself in **Software Engineering (Backend / Frontend / Mobile)**
-- 📌 Always learning and building new small projects
+- 🚀 Currently improving myself in **Software Engineering (Frontend / Mobile)**
+
 
 ---
 
 <h2 align="left">📌 Projects:</h2>
 
 - 📝 To-Do List Console App (c#)
-- 🧱 OOP Mini Project (java)
+- 🧱 OOP Project (java)
 - 🖥️ Simple GUI Project (java)
-- 📊 Data Structures Practice Problems
+
 
 ---
 
